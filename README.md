@@ -15,7 +15,7 @@ To run the main program, run: make execute num_thread = N
 Where N is number of balls and is limited to 50.
 Inside the GUI window, N number of bouncing balls will be seen on the screen. 6 buttons are included for various
 uses.
-CAMERA/POV options: -
+## CAMERA/POV options: -
 - Press “A” for default front view.
 - Press “S” for bird eye view.
 - Press “D” for Right Hand side view towards terrain.
@@ -24,7 +24,7 @@ CAMERA/POV options: -
 - Press “L” to increase transparency of walls.
 - Press “I” to make the balls opaque.
 - Press “K” to increase transparency of balls.
-FOG OPTIONS: -
+## FOG OPTIONS: -
 - Press “H” for night/foggy view.
 - Press “G” to day view.
 - Press "Q" to exit window.
